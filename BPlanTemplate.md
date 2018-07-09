@@ -9,7 +9,7 @@ Your Idea
 ## The Hook – Get the reader’s attention (if pitching)
 
 - Story
-- Unexpectedly large market
+- Unexpectedly large marketTBD
 - Traction
 - Rhetorical Question
 - These are just 4 examples
