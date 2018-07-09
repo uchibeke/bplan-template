@@ -7,7 +7,7 @@ Write.Pub: Time-Machine for Docs
 
 ## Product Overview 
 
-Write.Pub is provides: 
+Write.Pub provides: 
 
 1. Mobile/Tablet friendly, reactive WYSIWYG word processor.
 2. Efforless, automatic version control, save & sync to cloud.
