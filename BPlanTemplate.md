@@ -6,7 +6,7 @@ Your Idea
 
 ---
 
-## The Hook – Get the reader’s attention - TBD
+## The Hook – Get the reader’s attention (if pitching)
 
 - Story
 - Unexpectedly large market
@@ -36,9 +36,7 @@ Your Idea
 
 ---
 
-## What's Your Value Proposition & Differentiation
-
-## 
+## Your Value Proposition & Differentiation
 
 ---
 
